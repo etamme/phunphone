@@ -1,1 +1,1 @@
-Sample applications using [SIP.js](sipjs.com)
+Simple webrtc phone
